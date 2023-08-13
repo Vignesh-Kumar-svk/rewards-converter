@@ -26,16 +26,7 @@ public class RewardValue {
 		return convertToMiles(cash);
 	}
 	
-	
-	
-	    
-
-	  
-
-	  
-
-	    
-	
+		
 }
 	
 
